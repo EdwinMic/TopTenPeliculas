@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Peliculas Top</string>
+    <string name="txt_titulo">Titulo</string>
+    <string name="txt_descripcion">Descripcion</string>
+    <string name="txt_calificacion">Calificacion</string>
+    <string name="txt_categoria">Categoria</string>
+    <string name="txt_nohay_datos">No se encontro informacion</string>
+    <string name="txt_titulo_app">Peliculas Top</string>
+</resources>
